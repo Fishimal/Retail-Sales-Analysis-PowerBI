@@ -3,6 +3,8 @@
 ## Project Overview
 An interactive Power BI dashboard developed to analyse sales performance for an offline retail store dealing in electronics, footwear, clothing, home appliances, accessories, kitchenware, bags, and personal care products.
 
+![Power BI Overview](screenshots/Overview_1.png)
+
 The project focuses on identifying sales trends, evaluating product performance, analysing discounts, and comparing business performance across different periods.
 
 ## Business Objectives
